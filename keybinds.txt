@@ -1,0 +1,44 @@
+# BENCH PRESS TRACKER - KEYBOARD SHORTCUTS
+
+## Algemene bediening
+q       - Afsluiten
+m       - Wisselen tussen 'live' en 'debug' modus
+Spatie  - Pauzeren/hervatten (in debug modus)
+
+## Gewichtsaanpassing
++/=     - Gewicht verhogen met 10 kg
+-/_     - Gewicht verlagen met 10 kg
+p       - Gewicht verhogen met 2.5 kg
+o       - Gewicht verlagen met 2.5 kg
+
+## ROI (Region of Interest) bediening
+r       - Reset ROI (gebied waarin de halter wordt gedetecteerd)
+         Klik en sleep met muis om een nieuw ROI te tekenen
+
+## Meting & Analyse
+b       - Halter meetmodus aan/uit (klik en sleep om de lengte te meten)
+s       - Start countdown (in live modus)
+
+## Venster-instellingen
+h       - HSV Controls venster aan/uit
+d       - Bar Detection venster aan/uit
+
+## Video navigatie (alleen in debug modus)
+←       - 0.5 seconden terug
+→       - 0.5 seconden vooruit
+[       - Vertraag afspelen
+]       - Versnel afspelen
+
+## HSV-instellingen (voor halterdetectie)
+1       - H min verlagen
+!       - H min verhogen
+2       - H max verlagen
+@       - H max verhogen
+3       - S min verlagen
+#       - S min verhogen
+4       - S max verlagen
+$       - S max verhogen
+5       - V min verlagen
+%       - V min verhogen
+6       - V max verlagen
+^       - V max verhogen 
